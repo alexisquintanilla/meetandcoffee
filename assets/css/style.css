@@ -1,0 +1,95 @@
+body {
+    font-family: 'Opensans', sans-serif;
+    margin: 0px;
+}
+
+.oscuro li {
+    display: inline-block;
+    margin-right: 57px;
+    vertical-align: middle;
+}
+
+.oscuro {
+    background-color: #000F08;
+}
+
+.oscuro a {
+    color: white;
+    text-decoration: none;
+    height: ;
+}
+
+.oscuro a:hover {
+    color: red
+}
+
+.oscuro ul {
+    margin: 0px;
+    padding: 25px;
+}
+
+.hero-section {
+    background-image: url(../img/bg-hero.png);
+    text-align: right;
+    padding: 4rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-shadow: 0px 3px 6px black;
+    color: white;
+}
+
+#ubicacion {
+    text-align: center;
+    padding: 4rem;
+}
+
+.sweet-brown {
+    background-color: #A4452C;
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+.charla-speaker {
+    display: inline-block;
+    width: 25%;
+    vertical-align: middle;
+}
+
+.charla-texto {
+    display: inline-block;
+    width: 45%;
+    vertical-align: middle;
+}
+
+.centrado {
+    width: 70%;
+    margin-inline: auto;
+    color: white;
+
+
+}
+
+#eventos {
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
+
+.evento {
+    display: inline-block;
+    padding-inline: 50px;
+}
+
+#contacto {
+    text-align: center;
+    color: white;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.principal {
+    text-align: justify;
+    padding-inline: 25rem;
+    display: inline-block;
+}
